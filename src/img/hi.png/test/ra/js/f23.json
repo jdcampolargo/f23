@@ -119635,5 +119635,29 @@
         ]
       }
     ]
+  },
+    {
+    "year": 2023,
+    "term": "fall",
+    "subject": "TUT",
+    "course": "101",
+    "name": "Intro to The UIUC Talkshow",
+    "url": "https://www.youtube.com/@uiuctalkshow",
+    "startDate": "2023-08-21Z",
+    "endDate": "2023-12-06Z",
+    "meetings": [
+      {
+        "type": "Lecture",
+        "startTime": "01:00 PM",
+        "endTime": "01:50 PM",
+        "days": "TR",
+        "roomNumber": "Subscribe",
+        "buildingName": "YouTube",
+        "instructors": [
+          "Campolargo, Juan David",
+          "Patel, Aaryaman"
+        ]
+      }
+    ]
   }
 ]
